@@ -1,0 +1,11 @@
+variables: forma de almacenar un dato, se usa let, var y const. 
+
+strings: tipo de dato, que es una cadena de caracteres o texto. va entre comillas simples o dobles.
+
+funciones: son objetos que tienen un/unos argumentos que se declaran (argumento1, argumento2, argumento3)
+se le da nombre a esa funcion y se abren llaves. Dentro de esas llaves esta el codigo que se va a ejecutar.
+
+Declaraciones, realizan una acción if, del codigo que tiene dentro de las llaves, siempre y cuando la condicion sea true.
+
+Valores booleanos, son valores que toman solo dos opciones, true o false. Surgen de dar una comparacion de una cosa y otra. 
+ejemplo 5<6; true
